@@ -563,6 +563,7 @@ h3.my-profession {
   border-radius: 10px;
   overflow: hidden;
   cursor: pointer;
+  padding: 10px;
 }
 .portfolio .portfolio-item-inner .portfolio-img img {
   width: 100%;
@@ -571,6 +572,12 @@ h3.my-profession {
 }
 .portfolio .portfolio-item-inner .portfolio-img:hover img {
   transform: scale(1.1);
+}
+.project-content{
+  margin-top: 12px;
+}
+.project-content p{
+  color: white;
 }
 
 /* Contact */

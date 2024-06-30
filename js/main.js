@@ -1,13 +1,12 @@
 /* ================= typing animation ================== */
 var typed = new Typed(".typing", {
   strings: [
-    "Web Designer.",
-    "Web Developer.",
-    "Video Editor.",
-    "Gaming Creater.",
-    "YouTuber.",
+    "Mern Stack Developer.",
+    "React Js Developer.",
+    "Front End Developer.",
+    "Backend Developer."
   ],
-  typeSpeed: 150,
+  typeSpeed: 50,
   BackSpeed: 60,
   loop: true,
 });
